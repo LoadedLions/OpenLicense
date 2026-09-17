@@ -1,0 +1,22 @@
+# --- OS / archivos invisibles del sistema ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.AppleDouble
+.LSOverride
+.TemporaryItems
+Icon?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- carpetas temporales de trabajo (no forman parte del repo) ---
+.tmp-*/
+
+# --- AI Cinema: videos pesados hospedados como Release assets ---
+# Los .mp4 superan (o rozan) el límite de 100MB de GitHub, así que viven
+# en el Release "ai-cinema-v1". Solo versionamos el archivo de enlaces.
+/AI Cinema/*.mp4

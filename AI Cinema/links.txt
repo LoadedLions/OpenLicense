@@ -1,0 +1,3 @@
+EP00: https://github.com/LoadedLions/OpenLicense/releases/download/ai-cinema-v1/The_Cub_Corps_Ep00.mp4
+EP01: https://github.com/LoadedLions/OpenLicense/releases/download/ai-cinema-v1/The_Cub_Corps_Ep01.mp4
+EP02: https://github.com/LoadedLions/OpenLicense/releases/download/ai-cinema-v1/The_Cub_Corps_Ep02.mp4
